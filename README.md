@@ -4,4 +4,6 @@
 - [img2img.ipynb](https://github.com/daspartho/fastai-part2/blob/main/img2img.ipynb): implementing img2img pipeline
 - [mixprompt.ipynb](https://github.com/daspartho/fastai-part2/blob/main/mixprompt.ipynb): implementing Mix Prompting pipeline based on the idea of mixed embeddings
 - [matmul.ipynb](https://github.com/daspartho/fastai-part2/blob/main/matmul.ipynb): matrix multiplication from scratch
+- [meanshift.ipynb](https://github.com/daspartho/fastai-part2/blob/main/meanshift.ipynb): implementing meanshift algorithm
+- [backprop.ipynb](https://github.com/daspartho/fastai-part2/blob/main/backprop.ipynb): backpropagation from scratch
 - [reverse_prompt.ipynb](https://github.com/daspartho/fastai-part2/blob/main/reverse_prompt.ipynb): experimentation regarding the FastAI forum discussion on reverse prompt
